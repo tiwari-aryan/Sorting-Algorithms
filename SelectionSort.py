@@ -11,4 +11,3 @@ def selection_sort(list_sort):
 
 sorted_list = []
 sort = [19, 18, 22, 97, 8, 9]
-print(selection_sort(sort))
